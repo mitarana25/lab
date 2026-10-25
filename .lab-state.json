@@ -5,5 +5,14 @@
   "tenantId": "957a313a-971b-4add-b513-038b581bc3e7",
   "repo": "mitarana25/lab",
   "mainRulesetId": 25829012,
-  "mainRulesetName": "lab-main-protection"
+  "mainRulesetName": "lab-main-protection",
+  "randomIdentifier": 5706,
+  "devEnvUrl": "https://wm-dev-5706.crm.dynamics.com",
+  "devEnvId": "0d091a4b-8bb3-e4bd-8f7a-7f2d62141f1c",
+  "devOrgId": "3253b67e-98d0-f111-a04e-6045bd003139",
+  "devProfile": "dev",
+  "testEnvUrl": "https://wm-test-5706.crm.dynamics.com",
+  "testEnvId": "5df4ac37-cafb-e543-b9d3-0013bf2fb709",
+  "testOrgId": "4053b67e-98d0-f111-a04e-6045bd003114",
+  "testProfile": "test"
 }
