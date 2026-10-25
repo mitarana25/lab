@@ -1,5 +1,9 @@
 {
   "slnxName": "WarehouseManagement",
   "publisherPrefix": "lab",
-  "publisherName": "TALXISLab"
+  "publisherName": "TALXISLab",
+  "tenantId": "957a313a-971b-4add-b513-038b581bc3e7",
+  "repo": "mitarana25/lab",
+  "mainRulesetId": 25829012,
+  "mainRulesetName": "lab-main-protection"
 }
